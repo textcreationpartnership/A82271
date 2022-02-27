@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Decrees and orders of the Committee of Safcty [sic] of the Commonwealth of Oceana.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82271</idno>
+            <idno type="STC">Wing D806</idno>
+            <idno type="STC">Thomason E1010_3</idno>
+            <idno type="STC">ESTC R24881</idno>
+            <idno type="EEBO-CITATION">99872072</idno>
+            <idno type="PROQUEST">99872072</idno>
+            <idno type="VID">168740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168740)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1010[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Decrees and orders of the Committee of Safcty [sic] of the Commonwealth of Oceana.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>On t.p.: "Ordered that these decrees be forthwith printed and published. John Harrington, Clerk to the Committee."</note>
+                  <note>Annotation on Thomason copy: "Nouember"; "9ber. [i.e. November] 12".</note>
+                  <note>Reproductions of originals in the Henry E. Huntington Library and Art Gallery (Early English books) and the British Library (Thomason Tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harrington, James, 1611-1677. --  Commonwealth of Oceana.</term>
+               <term>Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168740:1" rendition="simple:additions"/>
+            <p>Decrees and Orders OF THE Committee of Safety. OF THE COMMONWEALTH OF <hi>OCEANA.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Ordered that theſe Decrees be forthwith Printed and Publiſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>John Harrington,</hi> Clerk to the Committee.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="decrees">
+            <pb facs="tcp:168740:2"/>
+            <pb n="3" facs="tcp:168740:2"/>
+            <head>Twenty three DECREES FROM THE Committee of Safety in <hi>Oceana.</hi>
+            </head>
+            <div n="1" type="decree">
+               <head>I.</head>
+               <p>THat the Politick Caſuiſts of the <hi>Coffee Club</hi> in <hi>Bow Street</hi> appoint ſome of their number to inſtruct the Committee of Safety at <hi>VVhitehall</hi> how they ſhall Ende an Invention to eſcape <hi>Tyburne,</hi> if ever the Law be reſtored.</p>
+            </div>
+            <div n="2" type="decree">
+               <head>II.</head>
+               <p>That <hi>Haringtons</hi> Aphoriſmes and other Politi<g ref="char:EOLhyphen"/>cal ſlips be recommended to the Engliſh Plantati<g ref="char:EOLhyphen"/>on in <hi>Jamaica,</hi> to try how they will agree with that Apocryphal Purchaſe.</p>
+            </div>
+            <div n="3" type="decree">
+               <pb n="4" facs="tcp:168740:3"/>
+               <head>III.</head>
+               <p>That a Levite and an Elder be ſent to Survey the <hi>Government</hi> of the <hi>Moon,</hi> and that <hi>Warreſton Johnſton,</hi> and Parſon <hi>Peters</hi> be the Men, as a couple of Learned Rabbies in the Lunaticks.</p>
+            </div>
+            <div n="4" type="decree">
+               <head>IV.</head>
+               <p>That the Kings of <hi>Spain</hi> and <hi>France</hi> ſhall be bound to the Peace at <hi>Hickes</hi>'s Hall, for entertaining Neigh<g ref="char:EOLhyphen"/>bourly thoughts of reſtoring King <hi>Charles.</hi>
+               </p>
+            </div>
+            <div n="5" type="decree">
+               <head>V.</head>
+               <p>That <hi>Don Lewis d' Haro,</hi> for his ſawcy expreſsions to the Engliſh Ambaſſador be concluded a Malignant, and incapable of bearing charge in the Government Militant of <hi>England.</hi>
+               </p>
+            </div>
+            <div n="6" type="decree">
+               <head>VI.</head>
+               <p>That the preſent Lord Mayor <hi>Allen,</hi> be put out leſt he be peremptory in preſerving the Priviledges of the City Charter.</p>
+            </div>
+            <div n="7" type="decree">
+               <head>VII.</head>
+               <p>That the Speakers Gown, and the <hi>Magna Charta</hi> be hung up in <hi>Weſtminſter</hi> Hall, as Trophees of <hi>Iack Straw's</hi> Conqueſt over <hi>England.</hi>
+               </p>
+            </div>
+            <div n="8" type="decree">
+               <pb n="5" facs="tcp:168740:3"/>
+               <head>VIII.</head>
+               <p>That <hi>John</hi> of <hi>Leyden's</hi> cruelty in <hi>Weſt-flanders</hi> ſhall be no Scare-Crow, why the People of <hi>England,</hi> may not entruſt their Government, and all that's precious to them in the hands of the merciful <hi>Anabaptiſts.</hi>
+               </p>
+            </div>
+            <div n="9" type="decree">
+               <head>IX.</head>
+               <p>That the Judaical Law will be moſt proper for <hi>England,</hi> ſince they Crucified their Maſter as well as the <hi>Jews.</hi>
+               </p>
+            </div>
+            <div n="10" type="decree">
+               <head>X.</head>
+               <p>That the money which was taken out of the <hi>Orphans</hi> portions to Feaſt the late Parliament and Officers of the Army, be repayed out of the Contributions which were gathered for the relief of the diſtreſſed Proteſtants in <hi>Savoy.</hi>
+               </p>
+            </div>
+            <div n="11" type="decree">
+               <head>XI.</head>
+               <p>That whoever ſhall report that <hi>Bradſhaws</hi> Nurſe hindered his Lordſhip from executing juſtice upon himſelf, ſhall be incapable of being a Member of the Senate that is now Hatching.</p>
+            </div>
+            <div n="12" type="decree">
+               <head>XII.</head>
+               <p>That <hi>Politicus</hi> be appointed to make
+<note n="*" place="margin">This word will puzzle the lay El<g ref="char:EOLhyphen"/>ders.</note> 
+                  <hi>Threnothri<g ref="char:EOLhyphen"/>ambeuticks,</hi> upon the Lord <hi>Lambert,</hi> and the other <hi>Mac<g ref="char:EOLhyphen"/>chabees,</hi>
+                  <pb n="6" facs="tcp:168740:4"/>that accompanied him, in regard he was ſo happy in his <hi>Flogium,</hi> upon the pious and loyal <hi>Brad<g ref="char:EOLhyphen"/>ſhaw.</hi>
+               </p>
+            </div>
+            <div n="13" type="decree">
+               <head>XIII.</head>
+               <p>That General <hi>Pleetwoods</hi> ſtaying at home, and ſend<g ref="char:EOLhyphen"/>ing out <hi>Lambert</hi> be thought no Cowardiſe in his Lord<g ref="char:EOLhyphen"/>ſhip, but only a little baſhfulneſs, which he is ſubject to before a ſmart Enemy.</p>
+            </div>
+            <div n="14" type="decree">
+               <head>XIV.</head>
+               <p>That if General <hi>Monk</hi> will Repent for his Relapſe, in turning a true <hi>Engliſhman;</hi> he ſhall only be decima<g ref="char:EOLhyphen"/>ted in his fortune, and a little abbreviated in his perſon.</p>
+            </div>
+            <div n="15" type="decree">
+               <head>XV.</head>
+               <p>That if the Souldiers of both Armies will be ſo diſ<g ref="char:EOLhyphen"/>creet as to ſtand aſide, and ſuffer their Officers to de<g ref="char:EOLhyphen"/>bate their own Capricio's, they ſhall be Liſted into the Cabal of Philoſophers.</p>
+            </div>
+            <div n="16" type="decree">
+               <head>XVI.</head>
+               <p>That the Celebrating the fift of <hi>November</hi> over all <hi>England</hi> for the Delivery of King <hi>Iames</hi> is no hypocri<g ref="char:EOLhyphen"/>ſie, though the Parliament their Religious Repreſen<g ref="char:EOLhyphen"/>tative, had the impudence to cut his Sons throat at his own Palace Gate.</p>
+            </div>
+            <div n="17" type="decree">
+               <head>XVII.</head>
+               <p>That the private Souldiers of <hi>Lamberts</hi> Army; How<g ref="char:EOLhyphen"/>ever
+<pb n="7" facs="tcp:168740:4"/>their Officers uſurp the Title of Saints, yet they (the Inſtruments by whom they act) being ſuch Mer<g ref="char:EOLhyphen"/>cenary Heathens, that for hopes of gain they will de<g ref="char:EOLhyphen"/>face the glory, and murder the Intereſt of their Nati<g ref="char:EOLhyphen"/>on; and for that very reaſon, if they do not put a ſtop to their miſchief they ſhall be as ſurely blotted out of the Records of Fame, as they are ſure to be blotted out of Gods regiſter Book in Heaven.</p>
+            </div>
+            <div n="18" type="decree">
+               <head>XVIII.</head>
+               <p>That all thoſe Miniſters who now pray for the King ſince the Voting down of Tythes, be eſteemed a bunch of ſelf-ſeeking Knaves.</p>
+            </div>
+            <div n="19" type="decree">
+               <head>XIX.</head>
+               <p>That the Earl of <hi>Pembrook</hi> take a doſe of <hi>Iacob Beah<g ref="char:EOLhyphen"/>mens</hi> ſpiritual Philoſophy, called, <hi>Panchymagogon</hi> to purge away his in<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ed corruptions, and particular<g ref="char:EOLhyphen"/>ly, that of his barbarous and injuſt jealouſie to his in<g ref="char:EOLhyphen"/>comparable Lady.</p>
+            </div>
+            <div n="20" type="decree">
+               <head>XX.</head>
+               <p>That if Sir <hi>Arthur Haſlerig</hi> acquire his <hi>ſummum bo<g ref="char:EOLhyphen"/>num,</hi> which is to die with his <hi>Arſe</hi> towards <hi>Walling<g ref="char:EOLhyphen"/>ford</hi> Houſe, his Heirs may have the Liberty to wipe his breech with the Commiſsion he gave himſelf.</p>
+            </div>
+            <div n="21" type="decree">
+               <head>XXI.</head>
+               <p>That the Countrey Hoſt who ſerved Protector
+<pb n="8" facs="tcp:168740:5"/>
+                  <hi>Richard,</hi> and his Brother, with a couple of Calves heads, and a diſh of Muſhrooms, be preferred to be Cook to the high and mighty <hi>Friend Sultan Sardana<g ref="char:EOLhyphen"/>palus Lumley,</hi> as a Learned and well qualified Philoſo<g ref="char:EOLhyphen"/>pher of the Kitchin.</p>
+            </div>
+            <div n="22" type="decree">
+               <head>XXII.</head>
+               <p>That <hi>Iretons</hi> Wifes Farting-diſpenſation in time of prayer, be imputed to the Flatuoſities of her Matrix.</p>
+            </div>
+            <div n="23" type="decree">
+               <head>XXIII.</head>
+               <p>That if any ſhall diſcover Alderman <hi>A kins</hi> without a Noſegay in his hand, or a Box of Incenſe in his pocket, he ſhall have the plunder of his chain, and the ſaid Alderman ſhall be turned out of his Treaſurerſhip in <hi>Tom-Turds</hi> Hall.</p>
+            </div>
+            <closer>
+               <salute>Reader farewel:</salute>
+               <signed>
+                  <hi>Stink</hi> parts Company.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
